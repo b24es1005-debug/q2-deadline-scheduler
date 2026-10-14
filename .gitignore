@@ -1,0 +1,18 @@
+# xv6 build artifacts
+xv6-public/*.img
+xv6-public/*.o
+xv6-public/kernel/kernel
+xv6-public/kernel/*.o
+xv6-public/user/*.o
+xv6-public/user/_*
+xv6-public/mkfs/mkfs
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
